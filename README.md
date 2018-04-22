@@ -14,3 +14,6 @@ The colors conventions are :
 
 The second version of the script is able to manipulate
 filenames containing spaces.
+
+![example_01](https://github.com/mbornet-hl/diff_tree/screenshots/diff_tree_01.png)
+
